@@ -1,0 +1,14 @@
+# 系统文件
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# SolidWorks 自动保存 / 备份 / 临时文件
+*.sldprt.~*
+*.sldasm.~*
+~$*
+*.~*
+Backup of *
+*.bak
+*.tmp
+$Recycle.Bin/
